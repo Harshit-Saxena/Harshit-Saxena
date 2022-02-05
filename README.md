@@ -1,13 +1,20 @@
-### Hi there 👋, I'm Harshit
+### Hi there <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif" alt="wave">, I'm Harshit
 
 #### Development and Deployment 
 
 I'm working as a Salesforce Developer from India, and I do a lot of side projects of full-stack development mostly using NextJs, NodeJs, Sass, Postman, and some more. I also blog although I have just started blogging my website (https://locuscoder.com). You can connect on Twitter (https://twitter.com/harshit28s) and LinkedIn (https://www.linkedin.com/in/harshit-saxena-40562b144/)
 
-
-Skills: 💻HTML / JS / CSS / SASS / Tailwind 
-        ► NextJs / NodeJS 
-        ► Apex / LWC 
+### - Languages and Tools...
+<p align="center">
+  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+</p>
 
 - 🔭 I’m currently working on NodeJs Task Manager App with cloud storage and deploying on Heroku 
 - 🌱 I’m currently learning NodeJs , NextJs 
@@ -24,8 +31,19 @@ Skills: 💻HTML / JS / CSS / SASS / Tailwind
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshit-Saxena&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Harshit-Saxena)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Harshit-Saxena) 
+
+
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Harshit-Saxena)  
 
 ![Profile views](https://gpvc.arturio.dev/Harshit-Saxena)  
+
+<h2 align="center">🤝 Support</h2>
+<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
+
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
+
