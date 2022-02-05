@@ -1,6 +1,9 @@
 ### Hi there 👋, I'm Harshit
+
 #### Development and Deployment 
+
 I'm working as a Salesforce Developer from India, and I do a lot of side projects of full-stack development mostly using NextJs, NodeJs, Sass, Postman, and some more. I also blog although I have just started blogging my website (https://locuscoder.com). You can connect on Twitter (https://twitter.com/harshit28s) and LinkedIn (https://www.linkedin.com/in/harshit-saxena-40562b144/)
+
 
 Skills: 💻HTML / JS / CSS / SASS / Tailwind 
         ► NextJs / NodeJS 
