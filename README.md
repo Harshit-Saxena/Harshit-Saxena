@@ -51,6 +51,7 @@ I'm working as a Salesforce Developer from India, and I do a lot of side project
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Harshit-Saxena)  
 
 ![Profile views](https://gpvc.arturio.dev/Harshit-Saxena)  
+<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
 <h2 align="center">🤝 Support</h2>
 <p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
