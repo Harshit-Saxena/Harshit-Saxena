@@ -23,7 +23,7 @@ I'm working as a Salesforce Developer from India, and I do a lot of side project
 </p>
 
 - 🔭 I’m currently working on NodeJs Task Manager App with cloud storage and deploying on Heroku 
-- 🌱 I’m currently learning NodeJs , NextJs 
+- 🌱 I’m currently learning NodeJs , NextJs and Everything
 - 👯 I’m looking to collaborate on Open Source 
 - 🤔 I’m looking for help with NodeJs and NextJs 
 - 💬 Ask me about Salesforce, Apex, LWC, Javascript, Html, Responsive Design 
