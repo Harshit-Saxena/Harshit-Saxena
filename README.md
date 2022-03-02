@@ -2,7 +2,7 @@
 
 #### Development and Deployment 
 
-I'm working as a Salesforce Developer from India, and I do a lot of side projects of full-stack development mostly using NextJs, NodeJs, Sass, Postman, and some more. I also blog although I have just started blogging my website (https://locuscoder.com). You can connect on Twitter (https://twitter.com/harshit28s) and LinkedIn (https://www.linkedin.com/in/harshit-saxena-40562b144/)
+I'm working as a Salesforce Developer from India, and I do a lot of side projects of full-stack development mostly using NextJs, NodeJs, Sass, Postman, and some more. I also blog although I have just started blogging my website (https://locuscoder.com).
 
 ### - Languages and Tools...
 <p align="center">
@@ -35,10 +35,11 @@ I'm working as a Salesforce Developer from India, and I do a lot of side project
 [<img src='https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white' alt='dev' height='40'>](https://hashnode.com/@HarshitSaxena)  
 [<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/harshit-saxena-40562b144//)  
 [<img src='https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/harshit28s)  
+<img style="background-color: white" src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fem360tech.com%2Fsites%2Fdefault%2Ffiles%2F2020-05%2FCapture_20.PNG&f=1&nofb=1' alt='salesforce' height='40' href="https://trailblazer.me/id/harshitsaxena">
 
-<h3  align="center"> 🌐 My Website</h3>
+<h3  align="center"><a href="https://locuscoder.com"> 🌐 My Website</a> </h3>
 
-<p align="center"><img  src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/salesforce.svg' alt='salesforce' height='40' href="https://trailblazer.me/id/harshitsaxena"></p>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit-Saxena)](https://github.com/anuraghazra/github-readme-stats)
 
