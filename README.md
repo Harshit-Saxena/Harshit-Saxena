@@ -1,6 +1,6 @@
 ### Hi there <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif" alt="wave">, I'm Harshit
 
-#### Development and Deployment 
+#### Salesforce Developer and Web Developer
 
 I'm working as a Salesforce Developer from India, and I do a lot of side projects of full-stack development mostly using NextJs, NodeJs, Sass, Postman, and some more. I also blog although I have just started blogging my website (https://locuscoder.com).
 
