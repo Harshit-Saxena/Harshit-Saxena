@@ -41,15 +41,15 @@ I'm working as a Salesforce Developer from India, and I do a lot of side project
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit-Saxena)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit-Saxena)](https://github.com/anuraghazra/github-readme-stats&theme=synthwave&show=Apex)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshit-Saxena&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshit-Saxena&show_icons=true&theme=synthwave)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Harshit-Saxena) 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Harshit-Saxena&theme=synthwave) 
 
 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Harshit-Saxena)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Harshit-Saxena&theme=synthwave)  
 
 ![Profile views](https://gpvc.arturio.dev/Harshit-Saxena)  
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
