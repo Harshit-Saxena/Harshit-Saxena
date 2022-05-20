@@ -41,7 +41,7 @@ I'm working as a Salesforce Developer from India, and I do a lot of side project
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit-Saxena)](https://github.com/anuraghazra/github-readme-stats&theme=synthwave&show=Apex)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit-Saxena&langs_count=10&theme=synthwave&show=Apex)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshit-Saxena&show_icons=true&theme=synthwave)  
 
