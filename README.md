@@ -1,6 +1,6 @@
 ### Hi there <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif" alt="wave">, I'm Harshit
 
-#### <a href= "https://trailblazer.me/id/harshitsaxena" >Salesforce Developer </a>and <a href="locuscoder.com">Web Developer</a>
+#### <a href= "https://trailblazer.me/id/harshitsaxena" >Salesforce Developer </a>
 
 I'm working as a Salesforce Developer from India, and I do a lot of side projects of full-stack development mostly using NextJs, NodeJs, Sass, Postman, and some more. I also blog although I have just started blogging my website (https://locuscoder.com).
 
