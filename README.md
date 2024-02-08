@@ -37,7 +37,7 @@ I'm working as a Salesforce Developer from India, and I do a lot of side project
 [<img src='https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/harshit28s)  
 <img style="background-color: white" src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fem360tech.com%2Fsites%2Fdefault%2Ffiles%2F2020-05%2FCapture_20.PNG&f=1&nofb=1' alt='salesforce' height='40' href="https://trailblazer.me/id/harshitsaxena">
 
-<h3  align="center"><a href="https://locuscoder.com"> 🌐 My Website</a> </h3>
+<h3  align="center"><a href="https://harshitsaxena.com"> 🌐 My Website</a> </h3>
 
 
 
