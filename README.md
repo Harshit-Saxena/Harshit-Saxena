@@ -2,7 +2,7 @@
 
 #### <a href= "https://trailblazer.me/id/harshitsaxena" >Salesforce Developer </a>
 
-I'm working as a Salesforce Developer from India, and I do a lot of side projects of full-stack development mostly using NextJs, NodeJs, Sass, Postman, and some more. I also blog although I have just started blogging my website (https://locuscoder.com).
+I'm working as a Salesforce Developer from India, and I do a lot of side projects of full-stack development mostly using NextJs, NodeJs, Sass, Postman, and some more. I also blog although I have just started blogging my website (https://harshitsaxena.com).
 
 ### - Languages and Tools...
 <p align="center">
